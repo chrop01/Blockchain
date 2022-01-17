@@ -13,7 +13,7 @@ public class Blockchain {
     public static int difficulty = 3;
     public static float minimumTransaction = 0.1f;
     public static Wallet walletA;
-    public static Wallet walletB;
+    public static Wallet walletB;   //
     public static Transaction genesisTransaction;
 
     public static void main(String[] args) {
